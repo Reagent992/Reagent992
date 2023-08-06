@@ -1,4 +1,3 @@
 ### Hi there!👋
-I'm Miron. I'm studying CS at Yandex Practicum.\
-"Python backend dev" to be precise.\
-My stack is Python, Django(including DRF), Docker.
+I'm Miron. I'm studying CS at [Yandex Practicum](https://practicum.yandex.ru/backend-developer/).\
+My stack is Python, Django, DRF, Docker.
