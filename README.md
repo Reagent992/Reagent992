@@ -15,6 +15,6 @@
 </div>
 <hr>
 <div>
-<a href="https://app.daily.dev/rea"><img src="https://api.daily.dev/devcards/d969ebfe68fd42fea742dc5e2a47a8f4.png?r=vg5" width="400" alt="Rea's Dev Card"/></a>
+<a href="https://app.daily.dev/rea"><img src="https://api.daily.dev/devcards/v2/BZJrQORsi4S056Kn8xh3n.png?type=default&r=os7" width="400" alt="Rea's Dev Card"/></a>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/657f41665145316d2518b17c?variant=dark&roadmaps=backend" width="400" alt="roadmap.sh"/></a>
 </div>
