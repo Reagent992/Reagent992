@@ -1,11 +1,11 @@
 <div align="left">
 
 ### Hi there!👋
-- I'm Miron, beginner developer from Russia, Arkhangelsk.
-- I studied CS at [Yandex Practicum](https://practicum.yandex.ru/backend-developer/).
-- [My resume(ru)](https://reamisd.notion.site/Resume-589b97f88fbc4ce98cbac86568752ab7?pvs=4).
+- I'm Miron, python backend developer from Russia, Arkhangelsk.
+- I started studying CS in 2023 at [Yandex Practicum](https://practicum.yandex.ru/backend-developer/).
+- [Резюме](https://reamisd.notion.site/Resume-589b97f88fbc4ce98cbac86568752ab7?pvs=4), [cv](https://reagent992.github.io/Reagent992/cv)
 - Currently continuing to learn on my own and working on [e-shop pet-project](https://github.com/Reagent992/stamps).
-- [My articles](https://medium.com/@reagent992).
+- [articles](https://reagent992.github.io/Reagent992/posts).
 
 ![](https://hit.yhype.me/github/profile?user_id=76998547)\
 ![](https://komarev.com/ghpvc/?username=Reagent992&color=007bff&label=Profile+Views&style=flat)
