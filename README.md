@@ -3,7 +3,7 @@
 ### Hi there!👋
 - I'm Miron, python backend developer from Russia, Arkhangelsk.
 - I started studying CS in 2023 at [Yandex Practicum](https://practicum.yandex.ru/backend-developer/).
-- [Резюме](https://reamisd.notion.site/Resume-589b97f88fbc4ce98cbac86568752ab7?pvs=4), [cv](https://reagent992.github.io/Reagent992/cv)
+- [Резюме](https://reamisd.notion.site/Resume-589b97f88fbc4ce98cbac86568752ab7?pvs=4), [cv](https://reagent992.github.io/cv/)
 - Currently continuing to learn on my own and working on [e-shop pet-project](https://github.com/Reagent992/stamps).
 - [articles](https://reagent992.github.io/Reagent992/posts).
 
